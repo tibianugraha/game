@@ -22,8 +22,8 @@ Dengan Aplikasi Petualangan Ajaib ini bisa untuk mengedukasi anak di bawah umur 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
 Pengguna | Mendapat materi lebih menyenangkan | Dapat lebih santai saat belajar | ⭐⭐⭐⭐⭐
-Pengguna | Menambah Edukasi | Lebih mudah di cari | ⭐⭐⭐⭐⭐
-Pengguna | Menambah wawasan | kita dapat mengenal lebih jauh tentang pendidikan | ⭐⭐⭐⭐⭐
+Pengguna | Menambah Edukasi | Lebih mudah di cari | ⭐⭐⭐⭐
+Pengguna | Menambah wawasan | kita dapat mengenal lebih jauh tentang pendidikan | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
