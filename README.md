@@ -27,38 +27,45 @@ Pengguna | Menambah wawasan | kita dapat mengenal lebih jauh tentang pendidikan 
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
 ```mermaid
 erDiagram
   PENGGUNA {
     int id_pengguna
     string username
-    bool admin_false
-  }
-ADMIN {
-    int id_pengguna
-    string username
-    bool admin_true
   }
 
   PENGGUNA ||--o{ GAME : mengakses
-  ADMIN ||--o{ GAME : Me
-  COURSE {
-    int id_course
-    string nama_course
-    string nama_author 
-    int rating
+  GAME {
+    int level
+    string village
+    string materi
+    string question
  } 
 ```
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+```mermaid
+flowchart BT 
+  subgraph cloud
+    B[Database: GAME] 
+  end
+  A[Aplikasi Android & iPhone: Godot] <--> B 
+```
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+Later belakang dan Deskripsi produk, berikut adalah deskripsi teknologi, Library, dan Framework yang digunakan saat pembuatan aplikasi game ini yaitu "Godot"
+
+## Bahasa Pemrograman / teknologi 
+Game Petualangan Ajaib ini menggunakan bahasa pemograman godot.
+
+## Framework
+Game Petualangan Ajaib dibangun dengan Godot, menggunakan bahasa yang ada pada Godot.
+
+## Library
+Menyediakan edukasi yang di pelajari di anak di bawah umur seperti alfabet, huruf hijaiyah, perhitungan dasar dan massih banyak lainnya.
 
 ## 6. Desain User Experience dan User Interface
 
