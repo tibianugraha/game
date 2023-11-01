@@ -24,7 +24,10 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 Pengguna | Mendapat materi lebih menyenangkan | Dapat lebih santai saat belajar | ⭐⭐⭐⭐⭐
 Pengguna | Menambah Edukasi | Lebih mudah di cari | ⭐⭐⭐⭐
 Pengguna | Menambah wawasan | kita dapat mengenal lebih jauh tentang pendidikan | ⭐⭐⭐⭐
-
+Pengguna | Mencari hurup abjad |endatangi gedung sekolah | ⭐⭐⭐⭐
+Pengguna | Belajar Hurup hijaiyah | Mendatangi Masjid atau Masdrasah islam | ⭐⭐⭐⭐
+Pengguna | Belajar matematika dasar | Pengguna bisa mendatangi Gedung yang bergambar angka | ⭐⭐⭐⭐
+Pengguna | mengklime  | kita dapat mengenal lebih jauh tentang pendidikan | ⭐⭐⭐⭐
 ## 3. Struktur Data
 
 
