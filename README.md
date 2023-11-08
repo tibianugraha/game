@@ -4,17 +4,30 @@ Dalam era digital seperti sekarang ini, bayak kalangan anak kecil yang sering be
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Aplikasi game ini adalah solusi bagi anak di bawah umur yang ingin belajar melalui aplikasi game ini, disini saya menawarkan aplikasi ini yang di dalam nya terdapat :
+Aplikasi game ini adalah solusi bagi anak di bawah umur yang ingin belajar melalui aplikasi game ini, di dalam game ini terdapat beberapa materi yang mudah di pahami untuk kalangan di bawah umur, untuk game ini di buat menggunakan Godot Engine dengan bahasa GDScript game juga mempunyai beberaoa core seperti game suvival (bisa berjalan, melakukan interaksi) disini saya menawarkan aplikasi ini yang di dalam nya terdapat :
 - hurup - hurup abjad
 - huruf hijaiyah
 - perhitungan dasar
 
 ## 1.3. Branding
 
-Nama Produk: Petualangan Ajaib Logo: Logo gambar animasi mencerminkan Semangat Belajar. Ikonnya adalah Hewan yang sedang membaca buku dan menggunakan topi toga. Ini menggambarkan Bahwa belajar itu menyenangkan.
-
-Slogan: "Jelajahi Dunia Pendidikan dengan Senyuman." Warna: Kombinasi warna warnni untuk memikat pengguna. Misi: Meminimalisir anak di bawah umur bermain game yang kurang mengedukasi.
-
+Nama Produk: Petualangan Ajaib
+Ikonnya adalah Hewan yang sedang membaca buku dan menggunakan topi toga, Ini menggambarkan Bahwa belajar itu menyenangkan.
+Logo: Logo gambar animasi mencerminkan Semangat Belajar.
+Slogan: "Jelajahi Dunia Pendidikan dengan Senyuman." 
+Warna: Kombinasi warna warnni untuk memikat pengguna. 
+Misi: Meminimalisir anak di bawah umur bermain game yang kurang mengedukasi.
+Target User : 
+  - Usia 8+
+  - penggemar game
+  - orang yang ingin belajar
+  - Untuk Keluarga
+User experience them :
+  - Mudah dipahami
+  - Beredukasi
+  - Ramah untuk Keluarga
+  - memudahkan beljar
+  -               
 Dengan Aplikasi Petualangan Ajaib ini bisa untuk mengedukasi anak di bawah umur bahwa penting nya belajar.
 
 ## 2. User Story
@@ -27,7 +40,7 @@ Pengguna | Menambah wawasan | kita dapat mengenal lebih jauh tentang pendidikan 
 Pengguna | Mencari hurup abjad |endatangi gedung sekolah | ⭐⭐⭐⭐
 Pengguna | Belajar Hurup hijaiyah | Mendatangi Masjid atau Masdrasah islam | ⭐⭐⭐⭐
 Pengguna | Belajar matematika dasar | Pengguna bisa mendatangi Gedung yang bergambar angka | ⭐⭐⭐⭐
-Pengguna | mengklime  | kita dapat mengenal lebih jauh tentang pendidikan | ⭐⭐⭐⭐
+
 ## 3. Struktur Data
 
 
