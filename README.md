@@ -17,13 +17,14 @@ Logo: Logo gambar animasi mencerminkan Semangat Belajar.
 Slogan: "Jelajahi Dunia Pendidikan dengan Senyuman." 
 Warna: Kombinasi warna warnni untuk memikat pengguna. 
 Misi: Meminimalisir anak di bawah umur bermain game yang kurang mengedukasi.
-Target User : 
+
+- Target User : 
   - Usia 8+
   - penggemar game
   - orang yang ingin belajar
   - Untuk Keluarga
 
-User experience them :
+- User experience them :
   - Mudah dipahami
   - Beredukasi
   - Ramah untuk Keluarga
