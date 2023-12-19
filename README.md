@@ -13,11 +13,10 @@ Aplikasi game ini adalah solusi bagi anak di bawah umur yang ingin belajar melal
 
 ## 1.3. Branding
 
-![image](https://github.com/tibianugraha/game/assets/148552896/871ccfd2-6660-4e0e-880b-52883d3d9201)
+![image](https://github.com/tibianugraha/game/assets/148552896/12df3a97-d3b1-4524-be7c-a4e60fbfaced)
 
 
-Nama Produk: Petualangan Ajaib
-Ikonnya adalah Hewan yang sedang membaca buku dan menggunakan topi toga, Ini menggambarkan Bahwa belajar itu menyenangkan.
+Nama Produk: Magic Adventure
 Logo: Logo gambar animasi mencerminkan Semangat Belajar.
 Slogan: "Jelajahi Dunia Pendidikan dengan Senyuman." 
 Warna: Kombinasi warna warnni untuk memikat pengguna. 
@@ -34,8 +33,8 @@ Misi: Meminimalisir anak di bawah umur bermain game yang kurang mengedukasi.
   - Beredukasi
   - Ramah untuk Keluarga
   - memudahkan beljar
-  -               
-Dengan Aplikasi Petualangan Ajaib ini bisa untuk mengedukasi anak di bawah umur bahwa penting nya belajar.
+             
+Dengan Aplikasi Magic Adventure ini bisa untuk mengedukasi anak di bawah umur bahwa penting nya belajar.
 
 Inspirasi Desain :
 
@@ -50,6 +49,8 @@ Inspirasi Desain :
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
+Pengguna | Memulai game | Dapat dimainkan | ⭐⭐⭐⭐
+Pengguna | Memilih gane belajar | Dapat memilih pembelajaran yang diinginkan | ⭐⭐⭐⭐
 Pengguna | Menjalankan karakter | Bisa menjelajah | ⭐⭐⭐⭐
 Pengguna | Mendapat materi lebih menyenangkan | Dapat lebih santai saat belajar | ⭐⭐⭐⭐⭐
 Pengguna | Menambah Edukasi | Lebih mudah di cari | ⭐⭐⭐⭐
