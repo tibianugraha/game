@@ -64,26 +64,24 @@ Pengguna | Belajar matematika dasar | Pengguna bisa mendatangi Gedung yang berga
 
 ```mermaid
 erDiagram
-  PENGGUNA {
-    int id_pengguna
-    string username
+  PLAYER { 
+    string Emoticon
+    string Suara 
+    string Item "Baju, Makanan, Minuman, Buku,"
   }
-
-  PENGGUNA ||--o{ GAME : mengakses
-  GAME {
-    int level
-    string village
-    string login
-    string loguot
- }
-
-  GAME ||--o{ IN GAME : Bermain
-  IN GAME {
-    string arab
-    int matematika
-    string materi
-    string question
- } 
+  PLAYER ||--|| MainMenu : masuk
+  MainMenu ||--|| MainMenu : menampilkan
+  MainMenu ||--|| MainMenu : merubah
+  MainMenu ||--|| MainMenu : menghapus
+  MainMenu ||--|| MainMenu : masuk
+  MainMenu {
+    string NewGame "Continue Game, Start New Game"
+    string LoadGame
+    string Options "Gameplay, Graphic, Display, Audio, Language, Accessibility"
+    string Minigames "Soccer, Tech Surf, Chess, Pinball, dll "
+    string Extras "Cutscene, Artwork, Cheats, Behind The Scene, Credit"
+    string Quit
+  }
 
 ```
 
