@@ -13,6 +13,9 @@ Aplikasi game ini adalah solusi bagi anak di bawah umur yang ingin belajar melal
 
 ## 1.3. Branding
 
+![image](https://github.com/tibianugraha/game/assets/148552896/871ccfd2-6660-4e0e-880b-52883d3d9201)
+
+
 Nama Produk: Petualangan Ajaib
 Ikonnya adalah Hewan yang sedang membaca buku dan menggunakan topi toga, Ini menggambarkan Bahwa belajar itu menyenangkan.
 Logo: Logo gambar animasi mencerminkan Semangat Belajar.
@@ -37,6 +40,10 @@ Dengan Aplikasi Petualangan Ajaib ini bisa untuk mengedukasi anak di bawah umur 
 Inspirasi Desain :
 
 ![harvest-moon-virtual-console-20080210090405846-2280884](https://github.com/tibianugraha/game/assets/148552896/b48dd033-2646-49a4-9f04-8a0f493ac4a3)
+
+![image](https://github.com/tibianugraha/game/assets/148552896/f9af7fe9-642e-455e-a9ca-0646e118ddf3)
+
+![image](https://github.com/tibianugraha/game/assets/148552896/35f3a174-c6ae-4ccb-bd6d-da1945df3ca0)
 
 
 ## 2. User Story
