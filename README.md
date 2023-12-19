@@ -70,16 +70,10 @@ erDiagram
     string Item "Baju, Makanan, Minuman, Buku,"
   }
   PLAYER ||--|| MainMenu : masuk
-  MainMenu ||--|| MainMenu : menampilkan
-  MainMenu ||--|| MainMenu : merubah
-  MainMenu ||--|| MainMenu : menghapus
-  MainMenu ||--|| MainMenu : masuk
   MainMenu {
-    string NewGame "Continue Game, Start New Game"
-    string LoadGame
-    string Options "Gameplay, Graphic, Display, Audio, Language, Accessibility"
-    string Minigames "Soccer, Tech Surf, Chess, Pinball, dll "
-    string Extras "Cutscene, Artwork, Cheats, Behind The Scene, Credit"
+    string NewGame "Continue Game"
+    string Options "Audio, Language, Accessibility"
+    string Minigames "Matematika, Arab, Abjad,"
     string Quit
   }
 
