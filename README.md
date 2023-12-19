@@ -9,6 +9,8 @@ Aplikasi game ini adalah solusi bagi anak di bawah umur yang ingin belajar melal
 - huruf hijaiyah
 - perhitungan dasar
 
+  Dalam game ini juga penggukan dapat menjelajah untuk bisa memasuki pembelajaran sepeti di dapem ada masjid nah kita dapat belajr hurup hijaiyah dan bisa megisi pertanyaan dasar di dalam game tersebut, selanjutnya saya juga akan memasukan gedung atau kelas pembelajaran seperti pertambahan pengurangan dan di sni pun bisa bermain game sambil belajar 
+
 ## 1.3. Branding
 
 Nama Produk: Petualangan Ajaib
