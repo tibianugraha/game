@@ -73,14 +73,14 @@ erDiagram
   GAME {
     int level
     string village
-    string Login
-    string Loguot
+    string login
+    string loguot
  }
 
   GAME ||--o{ IN GAME : Bermain
   IN GAME {
-    string Pembelajaan Arab
-    int Pembelajaran Matematika
+    string pembelajaan arab
+    int pembelajaran matematika
     string materi
     string question
  } 
