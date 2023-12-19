@@ -69,13 +69,18 @@ erDiagram
     string Suara 
     string Item "Baju, Makanan, Minuman, Buku,"
   }
-  PLAYER ||--|| MainMenu : masuk
-  MainMenu {
+  PLAYER ||--|| Game : masuk
+  Game {
     string NewGame "Continue Game"
     string Options "Audio, Language, Accessibility"
     string Minigames "Matematika, Arab, Abjad,"
     string Quit
   }
+  Game ||--|| InGame : masuk
+  InGame {
+    string Map "Memilih Map"
+    string Belajar "Bermain sambil belajar"
+    
 
 ```
 
