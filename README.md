@@ -77,7 +77,7 @@ erDiagram
     string Loguot
  }
 
-GAME ||--o{ IN GAME : Bermain
+  GAME ||--o{ IN GAME : Bermain
   IN GAME {
     string Pembelajaan Arab
     int Pembelajaran Matematika
