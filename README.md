@@ -73,9 +73,18 @@ erDiagram
   GAME {
     int level
     string village
+    string Login
+    string Loguot
+ }
+
+GAME ||--o{ IN GAME : Bermain
+  IN GAME {
+    string Pembelajaan Arab
+    int Pembelajaran Matematika
     string materi
     string question
  } 
+
 ```
 
 ## 4. Arsitektur Sistem
