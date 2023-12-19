@@ -80,7 +80,7 @@ erDiagram
   InGame {
     string Map "Memilih Map"
     string Belajar "Bermain sambil belajar"
-    
+  }
 
 ```
 
