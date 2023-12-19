@@ -79,8 +79,8 @@ erDiagram
 
   GAME ||--o{ IN GAME : Bermain
   IN GAME {
-    string pembelajaan arab
-    int pembelajaran matematika
+    string arab
+    int matematika
     string materi
     string question
  } 
