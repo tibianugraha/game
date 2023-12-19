@@ -9,7 +9,7 @@ Aplikasi game ini adalah solusi bagi anak di bawah umur yang ingin belajar melal
 - huruf hijaiyah
 - perhitungan dasar
 
-  Dalam game ini juga penggukan dapat menjelajah untuk bisa memasuki pembelajaran sepeti di dapem ada masjid nah kita dapat belajr hurup hijaiyah dan bisa megisi pertanyaan dasar di dalam game tersebut, selanjutnya saya juga akan memasukan gedung atau kelas pembelajaran seperti pertambahan pengurangan dan di sni pun bisa bermain game sambil belajar 
+  Dalam game ini juga penggukan dapat menjelajah untuk bisa memasuki pembelajaran sepeti di dapem ada masjid nah kita dapat belajr hurup hijaiyah dan bisa megisi pertanyaan dasar di dalam game tersebut, selanjutnya saya juga akan memasukan gedung atau kelas pembelajaran seperti pertambahan pengurangan dan di sni pun bisa bermain game sambil belajar game ini  terinspirasi oleh game yaitu Baby Bus, Harvest Moon, Aplikasi Belajar TK dan PAUD (yang di buat oleh solid kids). Itulah game yang meng inspirasi karena dari game game tersebut saya komplikasi kan jadi game ini bisa di sebut open map yang bisa menjelajah untuk memasuki kelas kelas yang di sediakan.
 
 ## 1.3. Branding
 
@@ -33,6 +33,9 @@ Misi: Meminimalisir anak di bawah umur bermain game yang kurang mengedukasi.
   - memudahkan beljar
   -               
 Dengan Aplikasi Petualangan Ajaib ini bisa untuk mengedukasi anak di bawah umur bahwa penting nya belajar.
+Inspirasi Desain :
+![harvest-moon-virtual-console-20080210090405846-2280884](https://github.com/tibianugraha/game/assets/148552896/b48dd033-2646-49a4-9f04-8a0f493ac4a3)
+
 
 ## 2. User Story
 
