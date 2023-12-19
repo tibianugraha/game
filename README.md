@@ -88,10 +88,11 @@ erDiagram
 
 ```mermaid
 flowchart BT 
-  subgraph cloud
-    B[Database: GAME] 
+  subgraph Cloud
+    B[Web Server: Godot Engine ] <--> C[Aplikasi Web Backend: Godot Engine] 
+    C <--> D[Database: MySQL] 
   end
-  A[Aplikasi Android & iPhone: Godot] <--> B 
+  E[Aplikasi Game Android/IoS] <--> B 
 ```
 
 ## 5. Teknologi, Library, dan Framework
