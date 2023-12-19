@@ -33,7 +33,9 @@ Misi: Meminimalisir anak di bawah umur bermain game yang kurang mengedukasi.
   - memudahkan beljar
   -               
 Dengan Aplikasi Petualangan Ajaib ini bisa untuk mengedukasi anak di bawah umur bahwa penting nya belajar.
+
 Inspirasi Desain :
+
 ![harvest-moon-virtual-console-20080210090405846-2280884](https://github.com/tibianugraha/game/assets/148552896/b48dd033-2646-49a4-9f04-8a0f493ac4a3)
 
 
@@ -41,6 +43,7 @@ Inspirasi Desain :
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
+Pengguna | Menjalankan karakter | Bisa menjelajah | ⭐⭐⭐⭐
 Pengguna | Mendapat materi lebih menyenangkan | Dapat lebih santai saat belajar | ⭐⭐⭐⭐⭐
 Pengguna | Menambah Edukasi | Lebih mudah di cari | ⭐⭐⭐⭐
 Pengguna | Menambah wawasan | kita dapat mengenal lebih jauh tentang pendidikan | ⭐⭐⭐⭐
