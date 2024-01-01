@@ -97,7 +97,11 @@ flowchart BT
 
 ## 5. Teknologi, Library, dan Framework
 
-Later belakang dan Deskripsi produk, berikut adalah deskripsi teknologi, Library, dan Framework yang digunakan saat pembuatan aplikasi game ini yaitu "Godot"
+Teknologi informas yang di gunakan hanya Godot, dari bahasa nya pun memakai godot dan tidak menggunakan yang lain , digodot juga tersedia semuanya dari codingan nya editing nya ada jadi baik nya menggunakan godot.
+
+## 6. Desain User Experience dan User Interface
+
+
 
 ## Bahasa Pemrograman / teknologi 
 Game Petualangan Ajaib ini menggunakan bahasa pemograman godot.
